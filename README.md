@@ -12,10 +12,10 @@
 ## 백엔드
 
 |대상|예시|상세|
-|----|----|----|
-|파일명|`QRrouter.ts`, `index.ts`, `config.ts`| 단어의 첫글자 대문자 ( index, config 제외 )|
+|------|----|----|
+|파일명|`QRrouter.ts`, `index.ts`| 단어의 첫글자 대문자 ( index, config 제외 )|
 |함수명|`function helloWorld ()`|‘_’ 금지, ‘-’ 금지, 첫 단어 소문자, 이후 단어 첫글자 대문자|
-|변수명|`var setUseState`, `interface ErrorBody`|첫단어는 소문자 두 번째 단어 이후의 첫글자는 대문자 type, interface 관련 변수명 제외 |
+|변수명|`var setUseState`, `type ErrorBody`|첫단어는 소문자 두 번째 단어 이후의 첫글자는 대문자 type, interface 제외 |
 
 
 
